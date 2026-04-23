@@ -1,4 +1,4 @@
-class FreeTimepunch < Formula
+class FreeeTimepunch < Formula
   desc "freee HR APIを使ったタイムレコーダーCLI"
   homepage "https://github.com/yoshihito-hanada/freee-timepunch"
   version "0.0.7"
